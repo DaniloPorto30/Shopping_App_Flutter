@@ -1,4 +1,23 @@
-# shopping
+# Shopping
+
+* Nesse projeto esta sendo desenvolvido um APP para uma LOJA.<br> 
+
+- Estou acompanhando o curso do Balta.io .💻<br>
+disponilibizado no link abaixo💡<br>
+
+https://balta.io/player/assistir/5d362b44-7c21-3e59-98ef-ee1f00000000
+
+----------------
+ # Tela de Login .🚀<br>
+
+
+![alt text](https://github.com/DaniloPorto30/Shopping_App_Flutter/blob/main/login.png?raw=true)<br>
+
+----------------
+#informações:📌
+
+Foi utilizado :💻Dart / Flutter.
+
 
 A new Flutter project.
 
