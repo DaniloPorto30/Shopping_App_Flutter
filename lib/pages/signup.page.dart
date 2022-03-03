@@ -12,7 +12,7 @@ class SignupPage extends StatelessWidget {
       body: SingleChildScrollView(
         child: Container(
           padding: EdgeInsets.only(
-            top: 80,
+            top: 30,
             left: 20,
             right: 20,
             bottom: 40,
