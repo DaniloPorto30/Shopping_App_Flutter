@@ -117,13 +117,17 @@ class LoginPage extends StatelessWidget {
                         width: double.infinity,
                         height: 40,
                         decoration: BoxDecoration(
-                          color: Colors.amber,
+                          color: Colors.blue,
                           borderRadius: BorderRadius.all(
                             Radius.circular(5),
                           ),
                         ),
                         child: TextButton(
-                          child: Text("Sign In"),
+                          child: Text("Sign In",
+                          style: TextStyle(
+                              color: Colors.white,
+                            ),
+                          ),
                           onPressed: () {},
                         ),
                       ),
