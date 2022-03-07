@@ -11,7 +11,7 @@ https://balta.io/player/assistir/5d362b44-7c21-3e59-98ef-ee1f00000000
  # Tela de Login .🚀<br>
 
 
-![alt text](https://github.com/DaniloPorto30/Shopping_App_Flutter/blob/main/login.png?raw=true)<br>
+![alt text](https://github.com/DaniloPorto30/Shopping_App_Flutter/blob/main/pages.png?raw=true)<br>
 
 ----------------
 #informações:📌
